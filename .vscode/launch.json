@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - App",
+      "request": "launch",
+      "mainClass": "com.maciejkozuch.dna.c4.App",
+      "projectName": "dna-c4"
+    }
+  ]
+}
